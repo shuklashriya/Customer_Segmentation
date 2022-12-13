@@ -1,1 +1,1 @@
-# Customer_Segmentation
+# Code-Clause-Internship
